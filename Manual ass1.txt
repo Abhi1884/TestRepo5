@@ -1,0 +1,22 @@
+Assignment Day 2:
+
+Write  2-3 examples of realtime defects which falls in below defect type category:
+•	Functional Defects : Functionality not working. 
+•	Performance defects : Speed is reduced and time taken is more for doing a particular function
+•	Compatability defects :When software behaves differently in diff environments .
+•	Usability defects : these defects impacts the overall user experience and usability .
+•	Security defects : hijacked , malware attack , encryption 
+•	Reliability defects : These defects affect the reliability stability and robustness of system.
+•	Documentation defects:Mismatch or miss in requirmeny doc , HLD , LLD
+
+Create a table and mention 3 difference of Quality control Vs Quality Assurance
+
+Assignment : day 1
+Write 4-5 realtime defects which you might encountred .
+
+git bash demo--> modified
+
+<<<<<<< HEAD
+updation in the mian branch
+
+
