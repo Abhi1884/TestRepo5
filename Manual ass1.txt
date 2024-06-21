@@ -14,9 +14,7 @@ Create a table and mention 3 difference of Quality control Vs Quality Assurance
 Assignment : day 1
 Write 4-5 realtime defects which you might encountred .
 
-git bash demo--> modified
+today is june 21st
 
-<<<<<<< HEAD
-updation in the mian branch
 
 
