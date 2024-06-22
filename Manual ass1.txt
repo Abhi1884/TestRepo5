@@ -1,4 +1,4 @@
-Assignment Day 2:
+                                                                                                            Assignment Day 2:
 
 Write  2-3 examples of realtime defects which falls in below defect type category:
 •	Functional Defects : Functionality not working. 
@@ -14,6 +14,7 @@ Create a table and mention 3 difference of Quality control Vs Quality Assurance
 Assignment : day 1
 Write 4-5 realtime defects which you might encountred .
 
+<<<<<<< HEAD
 today is june 22nd afternoon passed 12pm, now its lunch time
 
 
